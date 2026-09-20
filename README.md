@@ -64,4 +64,4 @@ cs-study/
 
 | 날짜 | 문제 | 난이도 | Python | Java |
 |---|---|---|---|---|
-| 2026-09-18 | [피자 나눠 먹기 (1)](algorithms/2026-09-18-pizza/README.md) | Lv. 0 | 풀이 전 | 풀이 전 |
+| 2026-09-18 | [피자 나눠 먹기 (1)](algorithms/2026-09-18-pizza/README.md) | Lv. 0 | 완료 | 완료 |
