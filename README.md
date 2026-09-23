@@ -65,3 +65,4 @@ cs-study/
 | 날짜 | 문제 | 난이도 | Python | Java |
 |---|---|---|---|---|
 | 2026-09-18 | [피자 나눠 먹기 (1)](algorithms/2026-09-18-pizza/README.md) | Lv. 0 | 완료 | 완료 |
+| 2026-09-23 | [짝수는 싫어요](algorithms/2026-09-23-odd-numbers/README.md) | Lv. 0 | 완료 | 완료 |
