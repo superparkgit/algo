@@ -66,4 +66,5 @@ cs-study/
 |---|---|---|---|---|
 | 2026-09-18 | [피자 나눠 먹기 (1)](algorithms/2026-09-18-pizza/README.md) | Lv. 0 | 완료 | 완료 |
 | 2026-09-23 | [짝수는 싫어요](algorithms/2026-09-23-odd-numbers/README.md) | Lv. 0 | 완료 | 완료 |
+| 2026-09-23 | [상수](algorithms/2026-09-23-boj-2908/README.md) | Bronze II | - | 로컬 테스트 완료 |
 | 2026-09-24 | [짝수와 홀수](algorithms/2026-09-24-even-or-odd/README.md) | Lv. 1 | 완료 | 완료 |
