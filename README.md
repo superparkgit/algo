@@ -70,3 +70,4 @@ cs-study/
 | 2026-09-24 | [짝수와 홀수](algorithms/2026-09-24-even-or-odd/README.md) | Lv. 1 | 완료 | 완료 |
 | 2026-09-25 | [숫자의 합](algorithms/2026-09-25-boj-11720/README.md) | Bronze IV | - | 로컬 테스트 완료 |
 | 2026-09-26 | [최소, 최대](algorithms/2026-09-26-boj-10818/README.md) | Bronze III | - | 로컬 테스트 완료 |
+| 2026-09-28 | [최댓값](algorithms/2026-09-28-boj-2562/README.md) | Bronze III | - | 로컬 테스트 완료 |
