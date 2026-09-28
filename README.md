@@ -71,3 +71,4 @@ cs-study/
 | 2026-09-25 | [숫자의 합](algorithms/2026-09-25-boj-11720/README.md) | Bronze IV | - | 로컬 테스트 완료 |
 | 2026-09-26 | [최소, 최대](algorithms/2026-09-26-boj-10818/README.md) | Bronze III | - | 로컬 테스트 완료 |
 | 2026-09-28 | [최댓값](algorithms/2026-09-28-boj-2562/README.md) | Bronze III | - | 로컬 테스트 완료 |
+| 2026-09-29 | [X보다 작은 수](algorithms/2026-09-29-boj-10871/README.md) | Bronze V | - | 로컬 테스트 완료 |
