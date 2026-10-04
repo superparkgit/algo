@@ -75,3 +75,4 @@ cs-study/
 | 2026-09-30 | [나머지](algorithms/2026-09-30-boj-3052/README.md) | Bronze II | - | 로컬 테스트 완료 |
 | 2026-10-01 | [과제 안 내신 분..?](algorithms/2026-10-01-boj-5597/README.md) | Bronze III | - | 로컬 테스트 완료 |
 | 2026-10-02 | [공 넣기](algorithms/2026-10-02-boj-10810/README.md) | Bronze III | - | 로컬 테스트 완료 |
+| 2026-10-04 | [공 바꾸기](algorithms/2026-10-04-boj-10813/README.md) | Bronze II | - | 로컬 테스트 완료 |
