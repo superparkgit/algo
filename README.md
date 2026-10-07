@@ -78,3 +78,4 @@ cs-study/
 | 2026-10-04 | [공 바꾸기](algorithms/2026-10-04-boj-10813/README.md) | Bronze II | - | 로컬 테스트 완료 |
 | 2026-10-05 | [바구니 뒤집기](algorithms/2026-10-05-boj-10811/README.md) | Bronze II | - | 로컬 테스트 완료 |
 | 2026-10-06 | [평균](algorithms/2026-10-06-boj-1546/README.md) | Bronze I | - | 로컬 테스트 완료 |
+| 2026-10-07 | [문자열 반복](algorithms/2026-10-07-boj-2675/README.md) | Bronze II | - | 로컬 테스트 완료 |
