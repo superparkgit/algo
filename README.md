@@ -96,3 +96,4 @@ cs-study/
 | 2026-10-24 | [수 찾기](algorithms/2026-10-24-boj-1920/README.md) | 이진 탐색 복습 | - | 로컬 테스트 완료 |
 | 2026-10-25 | [숫자 카드 2](algorithms/2026-10-25-boj-10816/README.md) | HashMap 빈도 | - | 로컬 테스트 완료 |
 | 2026-10-26 | [문자열 집합](algorithms/2026-10-26-boj-14425/README.md) | HashSet 조회 | - | 로컬 테스트 완료 |
+| 2026-10-27 | [듣보잡](algorithms/2026-10-27-boj-1764/README.md) | 집합·결과 정렬 | - | 로컬 테스트 완료 |
